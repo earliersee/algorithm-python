@@ -1,0 +1,4 @@
+# Development / CI dependencies
+-e .
+
+scikit-learn==1.9.1

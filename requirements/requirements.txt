@@ -1,0 +1,5 @@
+# Runtime dependencies
+scikit-learn>=1.9
+
+# The library itself uses only the standard library; install it with:
+#   python3 -m pip install -e .
